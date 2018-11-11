@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Text Mining Overview
+title:  Conditional Random Fields
 category: Text Mining 
 description: Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Text Mining Overview
+title:  Named Entity Recognition and the Stanford NER Software
 category: Text Mining 
 description: Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
 ---
